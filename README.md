@@ -19,6 +19,8 @@ Player 2 moves using keys 'E', 'S', 'D' and 'F' and fires using the key 'Q'.
 ### To-Do
 * Improve the documentation/javadoc
 * Bug-fixes
+* Improve the current bullet types' behaviour
+* Add new bullet types
 
 ### A note on running the game on MacOSX
 The game requires users to hold down keys to move around the map. On MacOS, character menu pops up if you hold down a key instead of key repeat. You can fix this by opening up a terminal and running the command:
@@ -32,7 +34,6 @@ defaults write -g ApplePressAndHoldEnabled -bool true
 
 ### Bugs
 * Due to some problem occurs in threading, on some computers the game runs slow and delays occur in updating/rendering the game.
-* Some 
 
 ## Contributors
 
