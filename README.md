@@ -17,8 +17,8 @@ Player 1 moves using the arrow keys and fires using the 'M' key.
 Player 2 moves using keys 'E', 'S', 'D' and 'F' and fires using the key 'Q'.
 
 ### Screenshots
-![alt text](https://github.com/foreignOwl/tankTrouble/tree/master/src/tankTroubleMenu.png "Menu")
-![alt text](https://github.com/foreignOwl/tankTrouble/tree/master/src/tankTroubleGame.png "Game")
+![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleMenu.png "Menu")
+![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleGame.png "Game")
 
 ### To-Do
 * Improve the documentation/javadoc
