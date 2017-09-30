@@ -5,11 +5,11 @@ A 2 player tank game implemented in Java, inspired by the game with the same nam
 Clone and download the files to some directory. Open up a terminal and browse to the path where the project files are located.
 Compile the java source code:
 ```
-java TankTrouble.java
+javac TankTrouble.java
 ```
 Once the source files are compiled, you can run the game:
 ```
-javac TankTrouble
+java TankTrouble
 ```
 ### Controls
 
