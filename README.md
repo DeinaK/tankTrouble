@@ -1,5 +1,5 @@
-# Tank Trouble
-A 2 player tank game implemented in Java, inspired by the game with the same name.
+# TankTrouble
+A 2 player tank game implemented in Java, inspired by the game with the same name. The program uses threads to render/update/run the game. 
 
 ### Installing
 Clone and download the files to some directory. Open up a terminal and browse to the path where the project files are located.
@@ -15,10 +15,6 @@ javac TankTrouble
 
 Player 1 moves using the arrow keys and fires using the 'M' key.
 Player 2 moves using keys 'E', 'S', 'D' and 'F' and fires using the key 'Q'.
-
-### Screenshots
-![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleMenu.png "Menu")
-![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleGame.png "Game")
 
 ### To-Do
 * Improve the documentation/javadoc
@@ -38,8 +34,12 @@ defaults write -g ApplePressAndHoldEnabled -bool true
 * Due to some problem occurs in threading, on some computers the game runs slow and delays occur in updating/rendering the game.
 * Some 
 
-## Authors
+## Contributors
 
 * Arda Basaran - [foreignOwl](https://github.com/foreignOwl)
 * M. Mirac Suzgun
 * Mehmet Tuna Uysal
+
+### Screenshots
+![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleMenu.png "Menu")
+![alt text](https://github.com/foreignOwl/tankTrouble/blob/master/src/tankTroubleGame.png "Game")
